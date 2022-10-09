@@ -1,0 +1,86 @@
+body {
+
+    background-color: white padding 5px;
+    border: 1px solid black;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: black;
+    text-indent: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+
+h2 {
+    color: black;
+    text-indent: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+
+}
+
+h4 {
+    color: black;
+    text-indent: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+
+ol {
+    color: rgb(68, 66, 66);
+    line-height: 1.8;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+
+li {
+    color: rgb(68, 66, 66);
+    line-height: 1.8;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+    list-style-type: circle;
+}
+
+#class {
+    color: blue;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+
+a {
+    color: rgb(68, 66, 66);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+
+a:visited {
+    color: black;
+
+}
+
+.image-container {
+    width: 200px;
+    height: 210px;
+    overflow: hidden;
+    float: right;
+    position: relative;
+    right: 35px;
+    top: 70px;
+    border-radius: 50%;
+    border-style: solid;
+
+}
+
+.image-container img {
+    width: 100%;
+    top: -84px;
+    position: relative;
+
+
+}
