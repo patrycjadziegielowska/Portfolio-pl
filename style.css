@@ -74,13 +74,25 @@ a:visited {
     top: 70px;
     border-radius: 50%;
     border-style: solid;
-
 }
 
 .image-container img {
     width: 100%;
     top: -84px;
     position: relative;
+}
 
+@media screen and (max-width: 600px) {
+    h1 {
+        text-indent: 0;
+        text-align: center;
+        padding: 0 10px;
+    }
 
+    .image-container {
+        float: none;
+        right: 0;
+        top: 10px;
+        margin: 0 auto;
+    }
 }
