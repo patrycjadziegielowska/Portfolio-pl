@@ -28,6 +28,13 @@ h4 {
     font-family: 'Noto Serif', serif;
 }
 
+p {
+    color: black;
+    text-indent: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+
 ol {
     color: rgb(68, 66, 66);
     line-height: 1.8;
@@ -52,7 +59,7 @@ li {
 a {
     color: rgb(68, 66, 66);
     padding: 14px 25px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     display: inline-block;
     font-family: 'Montserrat', sans-serif;
