@@ -57,7 +57,7 @@ li {
 }
 
 a {
-    color: rgb(68, 66, 66);
+    color: rgb(5, 5, 5);
     padding: 14px 25px;
     text-align: left;
     text-decoration: none;
@@ -67,7 +67,7 @@ a {
 }
 
 a:visited {
-    color: black;
+    color: rgb(59, 58, 58);
 
 }
 
